@@ -1,7 +1,7 @@
 # A3C-Pong
 
 ## Description
-This is an A3C Pong agent code. The agent plays Pong against a bot repeatedly and improves overtime. It uses Asynchronous **Advantage Actor Critic** (**A3C**) algorithm.
+This is an A3C Pong agent code. The agent plays Pong against a bot repeatedly and improves overtime. It uses **Asynchronous Advantage Actor Critic** (**A3C**) algorithm.
 
 ## **Usage**
 

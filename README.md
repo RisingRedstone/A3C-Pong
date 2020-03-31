@@ -16,6 +16,6 @@ This is an A3C Pong agent code. The agent plays Pong against a bot repeatedly an
 ##### Example:
 >python3 train.py --testing True PongNoFrameskip-v4 --savedir Saves/Save2/network
 
-To save a network while training, press 's'
+To save a network while training, press '*s*'
 
 This is a very raw code, will refine it and provide explaination of how it works later. :)
